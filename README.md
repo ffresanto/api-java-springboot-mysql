@@ -151,7 +151,7 @@ Caso utilize a IDE VSCODE aplique as configurações no launch.json
 
 ### Banco de Dados
 
-Todas as informações de acesso aos bancos de dado utilizados no projeto encontram-se nos arquivos *application*.yml*, no diretório **properties**. 
+Todas as informações de acesso aos bancos de dado utilizados no projeto encontram-se nos arquivos **application.yml**, no diretório **resources**. 
 
 Para configuração local do banco, é necessário ter uma instância [MySQL](https://downloads.mysql.com/archives/c-net/) instalada na máquina.  
 
