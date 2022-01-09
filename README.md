@@ -9,9 +9,9 @@
     - [Configuração de parametros do  ](#configuração-de-parametros-do-projeto-)
     - [Instalação Manual](#instalação-manual)
 
-## Sobre
+## Sobre o projeto
 
-O projeto tem como finalidade para treino e estudo.
+Esta API foi desenvolvida em Java com SpringBoot e utilizando o banco de dados MySQL, fazendo apenas um CRUD de usuários. A finalidade desse projeto foi para estudo em springboot e aprimoramento das minhas habilidades em java.
 
 ## Estrutura do Projeto
 
